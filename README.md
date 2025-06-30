@@ -54,5 +54,5 @@ Miguel Barraza (<miguelbarraza2015@gmail.com>)
 
 ## Descarga
 
-Descarga la última versión desde:  
-[https://github.com/MiguelBarrazaAr/fileContentManager/releases/download/v1.2/FileContentManager.nvda-addon](https://github.com/MiguelBarrazaAr/fileContentManager/releases/download/v1.2/FileContentManager.nvda-addon)
+Descarga la última versión desde aquí:  
+[fileContentManagerv-1.2.nvda-addon](https://github.com/MiguelBarrazaAr/fileContentManager/releases/download/v1.2/FileContentManager.nvda-addon)
